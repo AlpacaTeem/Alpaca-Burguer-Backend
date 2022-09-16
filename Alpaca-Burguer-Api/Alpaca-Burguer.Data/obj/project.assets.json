@@ -8,23 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\José Henrique\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rhitm\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj",
+      "projectUniqueName": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj",
       "projectName": "Alpaca-Burguer.Data",
-      "projectPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj",
-      "packagesPath": "C:\\Users\\José Henrique\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\obj\\",
+      "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj",
+      "packagesPath": "C:\\Users\\rhitm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\José Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rhitm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

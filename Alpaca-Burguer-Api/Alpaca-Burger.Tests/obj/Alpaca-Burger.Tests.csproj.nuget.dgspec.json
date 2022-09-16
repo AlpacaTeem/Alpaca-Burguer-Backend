@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj": {}
+    "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burger.Tests\\Alpaca-Burger.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj": {
+    "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burger.Tests\\Alpaca-Burger.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
-        "projectName": "Alpaca-Burguer.Api",
-        "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
+        "projectUniqueName": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burger.Tests\\Alpaca-Burger.Tests.csproj",
+        "projectName": "Alpaca-Burger.Tests",
+        "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burger.Tests\\Alpaca-Burger.Tests.csproj",
         "packagesPath": "C:\\Users\\rhitm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\obj\\",
+        "outputPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burger.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,29 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Swashbuckle.AspNetCore": {
+            "AutoMoq": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
             }
           },
           "imports": [
@@ -60,9 +80,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
