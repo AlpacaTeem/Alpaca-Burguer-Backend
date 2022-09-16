@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32126.317
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alpaca-Burguer.Api", "Alpaca-Burguer.Api\Alpaca-Burguer.Api.csproj", "{FFCF64C6-A3D2-468A-BBC9-EE46216142CE}"
 EndProject
@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alpaca-Burguer.Business", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alpaca-Burguer.Data", "Alpaca-Burguer.Data\Alpaca-Burguer.Data.csproj", "{DB52B0A4-910A-4D97-B79F-3F5D4D2022D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaca-Burger.Tests", "Alpaca-Burger.Tests\Alpaca-Burger.Tests.csproj", "{CBBD545F-185A-4431-A1B8-F9B289FCFEF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Alpaca-Burger.Tests", "Alpaca-Burger.Tests\Alpaca-Burger.Tests.csproj", "{CBBD545F-185A-4431-A1B8-F9B289FCFEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alpaca-Burguer.Application", "Alpaca-Burguer.Application\Alpaca-Burguer.Application.csproj", "{49653FE8-7F6A-47D6-8B5A-1DA27697E0BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CBBD545F-185A-4431-A1B8-F9B289FCFEF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBBD545F-185A-4431-A1B8-F9B289FCFEF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBBD545F-185A-4431-A1B8-F9B289FCFEF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49653FE8-7F6A-47D6-8B5A-1DA27697E0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49653FE8-7F6A-47D6-8B5A-1DA27697E0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49653FE8-7F6A-47D6-8B5A-1DA27697E0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49653FE8-7F6A-47D6-8B5A-1DA27697E0BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
