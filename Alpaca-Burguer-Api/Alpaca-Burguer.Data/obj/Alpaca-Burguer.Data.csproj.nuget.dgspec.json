@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj": {}
+    "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj": {
+    "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
+        "projectUniqueName": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
         "projectName": "Alpaca-Burguer.Api",
-        "projectPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
-        "packagesPath": "C:\\Users\\José Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\obj\\",
+        "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
+        "packagesPath": "C:\\Users\\rhitm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\José Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rhitm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MediatR": {
               "target": "Package",
@@ -45,6 +51,10 @@
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.18, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -69,21 +79,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj": {
+    "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj",
+        "projectUniqueName": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj",
         "projectName": "Alpaca-Burguer.Data",
-        "projectPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj",
-        "packagesPath": "C:\\Users\\José Henrique\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\obj\\",
+        "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\Alpaca-Burguer.Data.csproj",
+        "packagesPath": "C:\\Users\\rhitm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\José Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rhitm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,9 +109,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj": {
-                "projectPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj"
+              "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj": {
+                "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj"
               }
             }
           }
@@ -110,6 +125,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -121,14 +137,11 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
