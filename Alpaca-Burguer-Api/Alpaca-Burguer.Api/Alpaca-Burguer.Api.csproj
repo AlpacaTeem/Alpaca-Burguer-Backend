@@ -11,5 +11,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Alpaca-Burguer.Application\Alpaca-Burguer.Application.csproj" />
+    <ProjectReference Include="..\Alpaca-Burguer.Business\Alpaca-Burguer.Business.csproj" />
+  </ItemGroup>
+
 
 </Project>

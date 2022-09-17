@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lEGnugwZJKUPR5SJb8EANsL//eA0LcNCgbQGXAj2COSr7Ceu/tsLH9KuaJjRlKV5MmcAQJ7gjFwUQsnf51JXnQ==",
+  "dgSpecHash": "1qn0llXOUWMx5lOxFwWxyez7SZD06ly+XLiovpADiNcbPmISfR+yyeRbgi+v98vTUydv51V4cE12XHk3evyyfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Application\\Alpaca-Burguer.Application.csproj",
+  "projectFilePath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Application\\Alpaca-Burguer.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rhitm\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
-    "C:\\Users\\rhitm\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\rhitm\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
-    "C:\\Users\\rhitm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\José Henrique\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\José Henrique\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\José Henrique\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\José Henrique\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

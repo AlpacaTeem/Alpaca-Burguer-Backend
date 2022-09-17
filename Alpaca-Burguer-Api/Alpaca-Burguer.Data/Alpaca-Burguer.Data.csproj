@@ -9,8 +9,4 @@
     <ProjectReference Include="..\Alpaca-Burguer.Api\Alpaca-Burguer.Api.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
-
 </Project>

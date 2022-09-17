@@ -1,4 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Alpaca_Burguer.Application;
+using Alpaca_Burguer.Application.Interfaces;
+using Alpaca_Burguer.Business.Models;
+using MediatR;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using System.Collections.Generic;
@@ -12,16 +16,24 @@ namespace Alpaca_Burguer.Api.Controllers
     public class ProductController : ControllerBase
     {
         private readonly ILogger<ProductController> _logger;
+        private IProductRepository _productRepository { get; set; }
+        private IMediator _mediator { get; set; }
 
-        public ProductController(ILogger<ProductController> logger)
+        public ProductController(ILogger<ProductController> logger, IProductRepository productRepository, IMediator mediator)
         {
             _logger = logger;
+            _productRepository = productRepository;
+            _mediator = mediator;
         }
 
         [HttpGet("GetProducts")]
         public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
         {
-            return await _context.Products.ToListAsync();
+            var request = new GetProductsRequest();
+
+            var reponse = await _mediator.Send(request);
+
+            return Ok(reponse);
         }
 
         // GET: api/Products/5
