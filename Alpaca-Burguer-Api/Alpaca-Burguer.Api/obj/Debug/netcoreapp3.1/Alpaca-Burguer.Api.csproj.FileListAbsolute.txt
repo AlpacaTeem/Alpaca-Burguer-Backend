@@ -58,3 +58,5 @@ C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-
 C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Api.dll
 C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Api.pdb
 C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Api.genruntimeconfig.cache
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Application.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Business.dll

@@ -2,7 +2,7 @@
 
 namespace Alpaca_Burguer.Business.Interfaces
 {
-    interface IIngredientRepository : IRepository<Ingredient>
+    public interface IIngredientRepository : IRepository<Ingredient>
     {
     }
 }

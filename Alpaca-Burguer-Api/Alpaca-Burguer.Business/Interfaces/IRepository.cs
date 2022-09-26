@@ -7,7 +7,7 @@ namespace Alpaca_Burguer.Business.Interfaces
 {
     public interface IRepository<T>
     {
-        Task<IEnumerable<T>> GetAll();
+        Task<List<T>> GetAll();
         Task<T> Get(Guid id);
         Task<T> Add(T item);
         Task<T> Update(T item);

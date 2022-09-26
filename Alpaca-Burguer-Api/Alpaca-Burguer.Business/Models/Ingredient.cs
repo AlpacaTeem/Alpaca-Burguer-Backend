@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Alpaca_Burguer.Business.Models
 {
-    public class Ingredient
+    public class Ingredient : EntityBase
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
     }
 }

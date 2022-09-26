@@ -6,9 +6,9 @@ using System.Text;
 
 namespace Alpaca_Burguer.Data.Repositories
 {
-    public class ProductRepository : Repository<Product>
+    public class IngredientRepository : Repository<Ingredient>
     {
-        public ProductRepository(AlpacaBurguerDbContext dbContext) : base(dbContext)
+        public IngredientRepository(AlpacaBurguerDbContext dbContext) : base(dbContext)
         {
         }
     }

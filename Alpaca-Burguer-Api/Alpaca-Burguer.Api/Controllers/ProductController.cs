@@ -5,6 +5,7 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -19,10 +20,9 @@ namespace Alpaca_Burguer.Api.Controllers
         private IProductRepository _productRepository { get; set; }
         private IMediator _mediator { get; set; }
 
-        public ProductController(ILogger<ProductController> logger, IProductRepository productRepository, IMediator mediator)
+        public ProductController(ILogger<ProductController> logger, IMediator mediator)
         {
             _logger = logger;
-            _productRepository = productRepository;
             _mediator = mediator;
         }
 
@@ -38,77 +38,66 @@ namespace Alpaca_Burguer.Api.Controllers
 
         // GET: api/Products/5
         [HttpGet("GetProduct/{id}")]
-        public async Task<ActionResult<Product>> GetProduct(int id)
+        public async Task<ActionResult<Product>> GetProduct(Guid id)
         {
-            var product = await _context.Products.FindAsync(id);
+            var request = new GetProductRequest { Id = id };
 
-            if (product == null)
+            var reponse = await _mediator.Send(request);
+
+            if (Response == null)
             {
                 return NotFound();
             }
 
-            return product;
+            return Ok(reponse);
         }
 
-        [HttpPut("UpdateProduct/{id}")]
-        public async Task<IActionResult> PutProduct(int id, Product product)
+        [HttpPut("UpdateProduct")]
+        public async Task<IActionResult> UpdateProduct(Product product)
         {
-            if (id != product.Id)
-            {
-                return BadRequest();
-            }
+            var request = new UpdateProductRequest { Product = product };
 
-            _context.Entry(product).State = EntityState.Modified;
+            var reponse = await _mediator.Send(request);
 
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!ProductExists(id))
-                {
-                    return NotFound("O id não foi encontrado no banco de dados .");
-                }
-                else
-                {
-                    throw;
-                }
-            }
-
-            return NoContent();
+            return Ok(reponse);
         }
 
         // POST: api/Product
         // https://aka.ms/RazorPagesCRUD.
         [HttpPost("CreateProduct")]
-        public async Task<ActionResult<Product>> PostProduct(Product product)
+        public async Task<ActionResult<Product>> CreateProduct(Product product)
         {
-            _context.Products.Add(product);
-            await _context.SaveChangesAsync();
+            var request = new CreateProductRequest { Product = product };
 
-            return CreatedAtAction("GetProduct", new { id = product.Id }, product);
+            var reponse = await _mediator.Send(request);
+
+            return Ok(reponse);
         }
 
         // DELETE: api/Product/5
         [HttpDelete("DeleteProduct/{id}")]
-        public async Task<ActionResult<Product>> DeleteProduct(int id)
+        public async Task<ActionResult<Product>> DeleteProduct(Guid id)
         {
-            var product = await _context.Products.FindAsync(id);
-            if (product == null)
+
+            var request = new DeleteProductRequest { Id = id };
+
+            var reponse = await _mediator.Send(request);
+
+            if (Response == null)
             {
                 return NotFound();
             }
 
-            _context.Products.Remove(product);
-            await _context.SaveChangesAsync();
-
-            return product;
+            return reponse;
         }
 
-        private bool ProductExists(int id)
+        private async Task<bool> ProductExistsAsync(Guid id)
         {
-            return _context.Products.Any(e => product.Id == id);
+            var request = new ProductExistsRequest { Id = id };
+
+            var reponse = await _mediator.Send(request);
+
+            return reponse;
         }
     }
 }

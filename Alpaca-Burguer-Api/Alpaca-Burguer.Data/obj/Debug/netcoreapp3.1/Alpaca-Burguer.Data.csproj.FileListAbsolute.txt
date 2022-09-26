@@ -1,0 +1,7 @@
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Application.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Business.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.pdb
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.csprojAssemblyReference.cache
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.AssemblyInfoInputs.cache
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.AssemblyInfo.cs

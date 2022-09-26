@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Alpaca_Burguer.Application
 {
-    public class GetProductsRequest : IRequest<IEnumerable<Product>>
+    public class GetProductsRequest : IRequest<List<Product>>
     {
     }
 }

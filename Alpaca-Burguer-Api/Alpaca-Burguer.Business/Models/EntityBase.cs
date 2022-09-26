@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Alpaca_Burguer.Business.Models
 {
-    public class EntityBase
+    public class EntityBase 
     {
-        protected Guid Id { get; set; }
+        public Guid Id { get; set; }
 
         public EntityBase()
         {
