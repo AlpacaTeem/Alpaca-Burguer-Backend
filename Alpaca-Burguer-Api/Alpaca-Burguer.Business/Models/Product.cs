@@ -12,6 +12,15 @@ namespace Alpaca_Burguer.Business.Models
         public double Preco { get; set; }
         public List<Ingredient> Ingredients { get; set; }
 
+        public Product(string name, double margemDeLucroVisada, string description, double preco, List<Ingredient> ingredients)
+        {
+            Name = name;
+            Description = description;
+            MargemDeLucroVisada = margemDeLucroVisada;
+            Preco = preco;
+            Ingredients = ingredients;
+            Updated = DateTime.Now;
+        }
         public double CalculatePrice()
         {
             foreach (var ingredient in Ingredients)
