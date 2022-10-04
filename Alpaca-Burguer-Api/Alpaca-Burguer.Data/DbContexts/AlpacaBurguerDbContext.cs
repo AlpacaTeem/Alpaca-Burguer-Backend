@@ -13,5 +13,6 @@ namespace Alpaca_Burguer.Data.DbContexts
         }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<Ingredient> Ingredient { get; set; }
     }
 }

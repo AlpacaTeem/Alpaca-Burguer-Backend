@@ -4,7 +4,7 @@ using MediatR;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Alpaca_Burguer.Application.Ingredients.DeleteIngredient
+namespace Alpaca_Burguer.Application
 {
     public class DeleteIngredientHandler : IRequestHandler<DeleteIngredientRequest, Ingredient>
     {

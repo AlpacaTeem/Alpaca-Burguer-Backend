@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Alpaca_Burguer.Application.Ingredients.DeleteIngredient
+namespace Alpaca_Burguer.Application
 {
     public class DeleteIngredientRequest : IRequest<Ingredient>
     {

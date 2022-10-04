@@ -5,3 +5,27 @@ C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alp
 C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.csprojAssemblyReference.cache
 C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.AssemblyInfoInputs.cache
 C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.AssemblyInfo.cs
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.deps.json
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.runtimeconfig.json
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.runtimeconfig.dev.json
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.StaticWebAssets.xml
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.exe
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Data.deps.json
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Data.dll
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Data.pdb
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.dll
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Application.dll
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Business.dll
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Api.pdb
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Application.pdb
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Business.pdb
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.csproj.AssemblyReference.cache
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.AssemblyInfoInputs.cache
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.AssemblyInfo.cs
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.csproj.CoreCompileInputs.cache
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.csproj.CopyComplete
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.dll
+C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Data\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Data.pdb

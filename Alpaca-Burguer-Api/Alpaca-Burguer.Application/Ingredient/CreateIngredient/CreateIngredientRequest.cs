@@ -5,7 +5,7 @@ using System.Text;
 using Alpaca_Burguer.Business.Models;
 
 
-namespace Alpaca_Burguer.Application.Ingredients.CreateIngredient
+namespace Alpaca_Burguer.Application
 {
     public class CreateIngredientRequest : IRequest<Ingredient>
     {

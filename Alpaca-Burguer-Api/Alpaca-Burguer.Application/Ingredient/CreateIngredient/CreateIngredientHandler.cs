@@ -7,7 +7,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Alpaca_Burguer.Business.Models;
 
-namespace Alpaca_Burguer.Application.Ingredients.CreateIngredient
+namespace Alpaca_Burguer.Application
 {
     public class CreateIngredientHandler : IRequestHandler<CreateIngredientRequest, Ingredient>
     {
