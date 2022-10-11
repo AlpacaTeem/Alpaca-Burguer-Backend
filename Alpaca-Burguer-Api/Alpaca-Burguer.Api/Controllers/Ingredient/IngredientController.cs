@@ -5,6 +5,7 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace Alpaca_Burguer.Api.Controllers
@@ -19,6 +20,16 @@ namespace Alpaca_Burguer.Api.Controllers
         {
             _logger = logger;
             _mediator = mediator;
+        }
+
+        [HttpGet("GetIngredients")]
+        public async Task<ActionResult<IEnumerable<Ingredient>>> GetProducts()
+        {
+            var request = new GetProductsRequest();
+
+            var reponse = await _mediator.Send(request);
+
+            return Ok(reponse);
         }
 
         // GET: api/Products/5
