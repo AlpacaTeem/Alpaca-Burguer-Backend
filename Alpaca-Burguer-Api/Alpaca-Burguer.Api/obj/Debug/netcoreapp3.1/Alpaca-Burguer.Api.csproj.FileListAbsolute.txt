@@ -60,3 +60,21 @@ C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-
 C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Api.genruntimeconfig.cache
 C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Application.dll
 C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Business.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Application.pdb
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Api\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Business.pdb

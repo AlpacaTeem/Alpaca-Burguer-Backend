@@ -18,12 +18,12 @@ namespace Alpaca_Burguer.Application
             _userRepository = userRepository;
         }
 
-        public Task<User> Handle(UpdateUserRequest request, CancellationToken cancellationToken)
+        public async Task<User> Handle(UpdateUserRequest request, CancellationToken cancellationToken)
         {
-            var existentusers = _userRepository.Get(request.User.Id);
+            var userToUpdate = await _userRepository.Get(request.User.Id);
             //Deve ser colocada uma validação para verifica se o email e senha ja existem no sistema
             
-            return _userRepository.Update();
+            return await _userRepository.Update(userToUpdate);
         }
     }
 }

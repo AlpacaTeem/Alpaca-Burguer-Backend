@@ -15,3 +15,11 @@ C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-
 C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Application.csproj.CopyComplete
 C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Application.dll
 C:\Users\rhitm\OneDrive\Documentos\GitHub\Alpaca-Burguer-Backend\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Application.pdb
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Application.csprojAssemblyReference.cache
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Application.csproj.CoreCompileInputs.cache
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Application.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Application.pdb
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Application.pdb
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Business.dll
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\bin\Debug\netcoreapp3.1\Alpaca-Burguer.Business.pdb
+C:\Users\José Henrique\Dropbox\PC\Desktop\clone_test\Alpaca-Burguer-Backend\Alpaca-Burguer-Api\Alpaca-Burguer.Application\obj\Debug\netcoreapp3.1\Alpaca-Burguer.Application.csproj.CopyComplete

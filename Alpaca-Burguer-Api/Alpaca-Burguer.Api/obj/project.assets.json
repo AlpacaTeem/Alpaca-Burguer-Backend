@@ -1168,24 +1168,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rhitm\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\José Henrique\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
+      "projectUniqueName": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
       "projectName": "Alpaca-Burguer.Api",
-      "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
-      "packagesPath": "C:\\Users\\rhitm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\obj\\",
+      "projectPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\Alpaca-Burguer.Api.csproj",
+      "packagesPath": "C:\\Users\\José Henrique\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Api\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\rhitm\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\José Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1197,13 +1192,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Application\\Alpaca-Burguer.Application.csproj": {
-              "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Application\\Alpaca-Burguer.Application.csproj"
+            "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Application\\Alpaca-Burguer.Application.csproj": {
+              "projectPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Application\\Alpaca-Burguer.Application.csproj"
             },
-            "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Business\\Alpaca-Burguer.Business.csproj": {
-              "projectPath": "C:\\Users\\rhitm\\OneDrive\\Documentos\\GitHub\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Business\\Alpaca-Burguer.Business.csproj"
+            "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Business\\Alpaca-Burguer.Business.csproj": {
+              "projectPath": "C:\\Users\\José Henrique\\Dropbox\\PC\\Desktop\\clone_test\\Alpaca-Burguer-Backend\\Alpaca-Burguer-Api\\Alpaca-Burguer.Business\\Alpaca-Burguer.Business.csproj"
             }
           }
         }
@@ -1216,7 +1210,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MediatR": {
             "target": "Package",
@@ -1253,7 +1246,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
