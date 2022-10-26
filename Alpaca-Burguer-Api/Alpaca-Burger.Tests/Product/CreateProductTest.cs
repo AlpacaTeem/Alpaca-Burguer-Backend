@@ -4,7 +4,7 @@
 
 
 
-//namespace UnitTests
+//namespace Alpaca_Burger.Tests
 //{
 //    public class CreateProductTests
 //    {
@@ -17,7 +17,7 @@
 //            //var handle = mocker.Create<CreateProductCommandHandler>();
 
 //            //act
-//           // var command = new CreateProductCommandRequest();
+//            // var command = new CreateProductCommandRequest();
 //            //var result = await handle.Handle(command, new CancellationToken());
 
 
